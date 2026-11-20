@@ -1,0 +1,20 @@
+# Бінарники
+*.o
+*.obj
+*.a
+*.so
+*.out
+*.exe
+binvault
+
+# Білд
+build/
+Makefile.old
+
+# БД
+*.db
+*.sqlite
+*.sqlite3
+
+# Системне
+.DS_Store
